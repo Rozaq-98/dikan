@@ -1,0 +1,13 @@
+.boxLogoHomePage{
+    min-height: 600px;
+    padding: 40px 40px 40px 40px;
+    text-align: center;
+}
+
+.LogoHomePage{
+     max-height: 100px;
+}
+
+.TextHomePage{
+    text-align: center;
+}
